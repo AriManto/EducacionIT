@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\ClaseAlumnos\ClaseAlumno\obj\Debug\ClaseAlumno.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\ClaseAlumnos\ClaseAlumno\obj\Debug\ClaseAlumno.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\ClaseAlumnos\ClaseAlumno\bin\Debug\ClaseAlumno.exe.config
+E:\MantoAriel\Csharp\ClaseAlumnos\ClaseAlumno\bin\Debug\ClaseAlumno.exe
+E:\MantoAriel\Csharp\ClaseAlumnos\ClaseAlumno\bin\Debug\ClaseAlumno.pdb
+E:\MantoAriel\Csharp\ClaseAlumnos\ClaseAlumno\obj\Debug\ClaseAlumno.exe
+E:\MantoAriel\Csharp\ClaseAlumnos\ClaseAlumno\obj\Debug\ClaseAlumno.pdb

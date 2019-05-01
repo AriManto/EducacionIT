@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\Clase2\EstructuraDeControl\bin\Debug\EstructuraDeControl.exe.config
+E:\MantoAriel\Csharp\Clase2\EstructuraDeControl\bin\Debug\EstructuraDeControl.exe
+E:\MantoAriel\Csharp\Clase2\EstructuraDeControl\bin\Debug\EstructuraDeControl.pdb
+E:\MantoAriel\Csharp\Clase2\EstructuraDeControl\obj\Debug\EstructuraDeControl.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\Clase2\EstructuraDeControl\obj\Debug\EstructuraDeControl.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\Clase2\EstructuraDeControl\obj\Debug\EstructuraDeControl.exe
+E:\MantoAriel\Csharp\Clase2\EstructuraDeControl\obj\Debug\EstructuraDeControl.pdb

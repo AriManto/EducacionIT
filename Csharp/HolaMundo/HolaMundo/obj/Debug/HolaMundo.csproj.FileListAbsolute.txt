@@ -1,0 +1,20 @@
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\HolaMundo\HolaMundo\bin\HolaMundo.dll.config
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\HolaMundo\HolaMundo\bin\HolaMundo.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\HolaMundo\HolaMundo\bin\HolaMundo.pdb
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.dll
+C:\Users\Pablo\Documents\Visual Studio 2013\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\EducaciónIT\Desktop\MM\HolaMundo\HolaMundo\bin\HolaMundo.dll.config
+C:\Users\EducaciónIT\Desktop\MM\HolaMundo\HolaMundo\bin\HolaMundo.dll
+C:\Users\EducaciónIT\Desktop\MM\HolaMundo\HolaMundo\bin\HolaMundo.pdb
+C:\Users\EducaciónIT\Desktop\MM\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+C:\Users\EducaciónIT\Desktop\MM\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\EducaciónIT\Desktop\MM\HolaMundo\HolaMundo\obj\Debug\HolaMundo.dll
+C:\Users\EducaciónIT\Desktop\MM\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+E:\MantoAriel\Csharp\HolaMundo\HolaMundo\bin\HolaMundo.dll.config
+E:\MantoAriel\Csharp\HolaMundo\HolaMundo\bin\HolaMundo.dll
+E:\MantoAriel\Csharp\HolaMundo\HolaMundo\bin\HolaMundo.pdb
+E:\MantoAriel\Csharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.dll
+E:\MantoAriel\Csharp\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

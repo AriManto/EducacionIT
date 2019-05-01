@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\Clase2\Clase2\bin\Debug\Clase2.exe.config
+E:\MantoAriel\Csharp\Clase2\Clase2\bin\Debug\Clase2.exe
+E:\MantoAriel\Csharp\Clase2\Clase2\bin\Debug\Clase2.pdb
+E:\MantoAriel\Csharp\Clase2\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\Clase2\Clase2\obj\Debug\Clase2.exe
+E:\MantoAriel\Csharp\Clase2\Clase2\obj\Debug\Clase2.pdb
+E:\MantoAriel\Csharp\Clase2\Clase2\obj\Debug\Clase2.csprojAssemblyReference.cache

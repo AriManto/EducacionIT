@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\Clase 3\Arreglos\Ejercicios\bin\Debug\Ejercicios.exe.config
+E:\MantoAriel\Csharp\Clase 3\Arreglos\Ejercicios\bin\Debug\Ejercicios.exe
+E:\MantoAriel\Csharp\Clase 3\Arreglos\Ejercicios\bin\Debug\Ejercicios.pdb
+E:\MantoAriel\Csharp\Clase 3\Arreglos\Ejercicios\obj\Debug\Ejercicios.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\Clase 3\Arreglos\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\Clase 3\Arreglos\Ejercicios\obj\Debug\Ejercicios.exe
+E:\MantoAriel\Csharp\Clase 3\Arreglos\Ejercicios\obj\Debug\Ejercicios.pdb

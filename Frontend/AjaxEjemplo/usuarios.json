@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Lopez",
+        "DNI": "37484989",
+        "telefono": "4321-6548"
+    },
+    {
+        "nombre": "Matías",
+        "apellido": "Rodríguez",
+        "DNI": "35687487",
+        "telefono": "4651-7268"
+    },
+    {
+        "nombre": "Micaela",
+        "apellido": "Espósito",
+        "DNI": "39547132",
+        "telefono": "4987-1577"
+    },
+    {
+        "nombre": "Anabella",
+        "apellido": "Flores",
+        "DNI": "36150784",
+        "telefono": "4127-3074"
+    },
+    {
+        "nombre": "Rodrigo",
+        "apellido": "Fuentes",
+        "DNI": "37464216",
+        "telefono": "4679-0376"
+    },
+    {
+        "nombre": "Alan",
+        "apellido": "Estevanez",
+        "DNI": "36514879",
+        "telefono": "4498-6331"
+    },
+    {
+        "nombre": "Matias",
+        "apellido": "Dierio",
+        "DNI": "38514879",
+        "telefono": "4432-1130"
+    }
+]

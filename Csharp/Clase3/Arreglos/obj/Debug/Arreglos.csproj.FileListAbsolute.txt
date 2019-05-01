@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\Clase 3\Arreglos\bin\Debug\Arreglos.exe.config
+E:\MantoAriel\Csharp\Clase 3\Arreglos\bin\Debug\Arreglos.exe
+E:\MantoAriel\Csharp\Clase 3\Arreglos\bin\Debug\Arreglos.pdb
+E:\MantoAriel\Csharp\Clase 3\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\Clase 3\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\Clase 3\Arreglos\obj\Debug\Arreglos.exe
+E:\MantoAriel\Csharp\Clase 3\Arreglos\obj\Debug\Arreglos.pdb

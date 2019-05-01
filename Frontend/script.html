@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+    <link rel="stylesheet" href="script.css">
+</head>
+<body>
+    <header class="container">
+        <h2>JavaScript</h2>
+    </header>
+    <main class="container">
+        <ul>
+            <li class="item">item 1</li>
+            <li class="item" id="dos">item 2</li>
+            <li class="item">item 3</li>
+            <li class="item">item 4</li>
+            <li class="item">item 5</li>
+        </ul>
+        <button>Click!</button>
+        <!-- 
+            Los formularios son el punto de ingreso
+            de información de un cliente al servidor
+
+            viejos : text - checkbox - radio - submit
+                reset - password - file
+            nuevos : number - email - url - color - date
+                time - datetime - search
+        -->
+        <form>
+            <div>
+                <input type="text" placeholder="Tu nombre" name="nombre">
+            </div>
+            <div>
+                <input type="password" placeholder="Tu contraseña" name="pass">
+            </div>
+            <div>
+               <select name="pais">
+                <option value="ar">Argentina</option>
+                <option value="cl">Chile</option>
+                <option value="pe">Perú</option>
+                <option value="vz" selected>Venezuela</option>
+            </select> 
+            </div>
+            <div>
+                <textarea name="" id="" cols="30" rows="10"></textarea>
+            </div>
+            <button>Enviar</button>
+            <!-- <input type="submit" value="Enviar"> -->
+        </form>
+        
+    </main>
+    <footer class="container">
+        <div class="relojWrapper">
+                <p>Hora actual</p>
+               <p id="reloj">-------</p>   
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

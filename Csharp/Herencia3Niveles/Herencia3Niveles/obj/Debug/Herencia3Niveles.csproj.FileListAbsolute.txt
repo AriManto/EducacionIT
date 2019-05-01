@@ -1,0 +1,6 @@
+C:\ItCollege\Curso Objetos\Curso POO C# 2018\Curso P00\Herencia3Niveles\bin\Debug\Herencia3Niveles.exe.config
+C:\ItCollege\Curso Objetos\Curso POO C# 2018\Curso P00\Herencia3Niveles\obj\Debug\Herencia3Niveles.csprojResolveAssemblyReference.cache
+C:\ItCollege\Curso Objetos\Curso POO C# 2018\Curso P00\Herencia3Niveles\bin\Debug\Herencia3Niveles.exe
+C:\ItCollege\Curso Objetos\Curso POO C# 2018\Curso P00\Herencia3Niveles\bin\Debug\Herencia3Niveles.pdb
+C:\ItCollege\Curso Objetos\Curso POO C# 2018\Curso P00\Herencia3Niveles\obj\Debug\Herencia3Niveles.exe
+C:\ItCollege\Curso Objetos\Curso POO C# 2018\Curso P00\Herencia3Niveles\obj\Debug\Herencia3Niveles.pdb

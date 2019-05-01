@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="ejercicio.css">
+</head>
+<body>
+    <form>
+        <div class="campo">
+            <input type="text" placeholder="nombre">
+            <p class="explicacion">Solamente letras</p>
+        </div>
+        <div class="campo">
+            <input type="text" placeholder="apellido">
+            <p class="explicacion">Solamente letras</p>
+        </div>
+        <div class="campo">
+            <input type="text" placeholder="nombre de usuario">
+            <p class="explicacion">6-15 caracteres. Puede incluir letras, números y . - _</p>
+        </div class="campo">
+        <div class="campo">
+            <input type="text" placeholder="edad">
+            <p class="explicacion">Debe ser mayor a 18 años</p>
+        </div>
+        <div class="campo">
+            <textarea placeholder="descripcion" rows="8"></textarea>
+            <p class="explicacion">Hasta 200 caracteres</p>
+        </div>
+        <button>Guardar Usuario</button>
+        <p class="estado"></p>
+    </form>
+    <script src="ejercicio.js"></script> 
+</body>
+</html>

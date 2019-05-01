@@ -1,0 +1,14 @@
+E:\Nueva carpeta\HolaMundo\bin\Debug\HolaMundo.exe.config
+E:\Nueva carpeta\HolaMundo\bin\Debug\HolaMundo.exe
+E:\Nueva carpeta\HolaMundo\bin\Debug\HolaMundo.pdb
+E:\Nueva carpeta\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+E:\Nueva carpeta\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\HolaMundo\obj\Debug\HolaMundo.exe
+E:\Nueva carpeta\HolaMundo\obj\Debug\HolaMundo.pdb
+E:\MantoAriel\Csharp\HolaMundo\bin\Debug\HolaMundo.exe.config
+E:\MantoAriel\Csharp\HolaMundo\bin\Debug\HolaMundo.exe
+E:\MantoAriel\Csharp\HolaMundo\bin\Debug\HolaMundo.pdb
+E:\MantoAriel\Csharp\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\HolaMundo\obj\Debug\HolaMundo.exe
+E:\MantoAriel\Csharp\HolaMundo\obj\Debug\HolaMundo.pdb

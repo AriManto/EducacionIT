@@ -1,0 +1,38 @@
+body {
+    background-color: #333333; margin: 0;
+    font-family: 'Verdana', sans-serif;
+}
+
+.container {max-width: 700px; margin: 0 auto; 
+    background-color:#DDDDDD; padding: 20px;
+
+}
+header.container {
+    height: 40px;
+    background: linear-gradient(to right bottom, yellow,orange);
+    border-bottom: 2px black inset;
+}
+header h2 {
+    line-height: 40px;
+}
+
+#reloj {
+    color: red; font-family: 'Orbitron', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    background-color: black;
+    padding: 2px 5px;
+    width: 100px;
+    display: inline;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.relojWrapper p {
+    margin: 0;
+    width: 100px;
+    padding: 2px 8px;
+}
+footer {
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}

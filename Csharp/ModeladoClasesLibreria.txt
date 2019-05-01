@@ -1,0 +1,22 @@
+Modelar las clases de la librerìa
+---------------------------------
+
+1) Pensar en las entidades de negocio que deben modelar.
+
+2) Puede hacerlo en 1 solo proyecto de consola, con los archivos de clase
+   incluidos en el, o crear una soluciòn con dos proyectos: un proyecto de
+   consola y un proyecto de libreria de clases (recuerde que debe referenciar
+   el proyecto de librerìa en el proyecto de consola).
+
+3) Cree las clases de negocio, ejemplo public Class NOMBRECLASE, con la definiciòn
+   de todas las propiedades. No hace falta crear mètodos.
+
+4) En el programa principal deberà hacer:
+
+	a) Crear una instancia de la clase LIBRO.
+	b) Cargar datos en esa instancia.
+	c) Mostrar en la consola los datos de esa instancia.
+	d) Crear una lista de varios libros, por ejemplo 4,
+	   y cargarle datos a todas las propiedades de los libros.
+	e) Mostrar todos los datos de la la lista de libros.
+	 

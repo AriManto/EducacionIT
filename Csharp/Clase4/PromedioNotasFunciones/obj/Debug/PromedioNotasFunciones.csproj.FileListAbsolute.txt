@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\Clase4\PromedioNotasFunciones\bin\Debug\PromedioNotasFunciones.exe.config
+E:\MantoAriel\Csharp\Clase4\PromedioNotasFunciones\bin\Debug\PromedioNotasFunciones.exe
+E:\MantoAriel\Csharp\Clase4\PromedioNotasFunciones\bin\Debug\PromedioNotasFunciones.pdb
+E:\MantoAriel\Csharp\Clase4\PromedioNotasFunciones\obj\Debug\PromedioNotasFunciones.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\Clase4\PromedioNotasFunciones\obj\Debug\PromedioNotasFunciones.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\Clase4\PromedioNotasFunciones\obj\Debug\PromedioNotasFunciones.exe
+E:\MantoAriel\Csharp\Clase4\PromedioNotasFunciones\obj\Debug\PromedioNotasFunciones.pdb

@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe.config
+E:\MantoAriel\Csharp\SQLConnection\SQLConnection\bin\Debug\SQLConnection.exe
+E:\MantoAriel\Csharp\SQLConnection\SQLConnection\bin\Debug\SQLConnection.pdb
+E:\MantoAriel\Csharp\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\SQLConnection\SQLConnection\obj\Debug\SQLConnection.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\SQLConnection\SQLConnection\obj\Debug\SQLConnection.exe
+E:\MantoAriel\Csharp\SQLConnection\SQLConnection\obj\Debug\SQLConnection.pdb

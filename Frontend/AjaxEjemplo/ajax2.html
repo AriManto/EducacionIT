@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ajax 2 - JSON Local</title>
+</head>
+<body>
+    <button>Mostrar usuario</button>
+    <div class="usuario"></div>
+
+    <script>
+        let xhr = new XMLHttpRequest();
+        document.querySelector('button').addEventListener('click', infoUsuario);
+
+
+        function infoUsuario(){
+            xhr.open('GET', '/usuario.json', true);
+            xhr.onreadystatechange = function(){
+                if(xhr.readyState == 4 && xhr.status == 200){
+                    let response = JSON.parse(xhr.response);
+                    document.querySelector('.usuario').innerHTML = 
+                    "<ul>"+
+                    "<li> Nombre: "+response.nombre+"</li>"+
+                    "<li> Apellido: "+response.apellido+"</li>"+
+                    "<li> DNI: "+response.DNI+"</li>"+
+                    "<li> Telefono: "+response.telefono+"</li>"+
+                    "</ul>"
+                }
+                else if (xhr.status == 404){
+                    document.querySelector('.usuario').innerHTML = "<p>Error recibiendo los datos del usuario</p>"
+                }
+            }
+            xhr.send();
+        }
+    </script>
+</body>
+</html>

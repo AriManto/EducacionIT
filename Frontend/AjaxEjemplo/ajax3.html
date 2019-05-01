@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ajax 3 - JSON local array</title>
+    <style>
+    ul{
+        list-style: none;
+        margin: 0;
+        
+    }
+    .usuarios {
+        display: flex;
+        flex-flow: column wrap;
+    }
+    .usuario {
+        background-color: #E4E4E4;
+        padding: 10px;
+        margin: 5px auto;
+        width: 300px;
+        border-radius: 6px;
+    }
+    </style>
+</head>
+<body>
+    <button>Lista de usuarios</button>
+    <div class="usuarios"></div>
+
+    <script>
+        document.querySelector('button').addEventListener('click', mostrarUsuarios);
+        let xhr = new XMLHttpRequest();
+        let usuarios = document.querySelector('.usuarios');
+        function mostrarUsuarios(){
+            xhr.open('GET','/usuarios.json', true);
+            xhr.onreadystatechange = function (){
+                if (xhr.readyState == 4 && xhr.status == 200){
+                    usuarios.innerHTML="";
+                    let res = JSON.parse(xhr.response);
+                   console.log(res.length);
+                   for (let i = 0; i < res.length; i++){
+                       let usuario = document.createElement('div');
+                       usuario.classList.add('usuario');
+                       usuario.innerHTML = "<ul>"+
+                            "<li>Nombre: "+res[i].nombre+" "+res[i].apellido+"</li>"+
+                            "<li>DNI: "+res[i].DNI+"</li>"+
+                            "<li>Telefono: "+res[i].telefono+"</li>"+
+                            "</ul>";
+                        usuarios.append(usuario);
+                   }
+                }
+            }
+            xhr.send();
+        }
+    </script>
+</body>
+</html>

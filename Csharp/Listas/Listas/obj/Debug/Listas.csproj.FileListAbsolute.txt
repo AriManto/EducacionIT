@@ -1,0 +1,7 @@
+E:\MantoAriel\Csharp\Listas\Listas\bin\Debug\Listas.exe.config
+E:\MantoAriel\Csharp\Listas\Listas\bin\Debug\Listas.exe
+E:\MantoAriel\Csharp\Listas\Listas\bin\Debug\Listas.pdb
+E:\MantoAriel\Csharp\Listas\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+E:\MantoAriel\Csharp\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+E:\MantoAriel\Csharp\Listas\Listas\obj\Debug\Listas.exe
+E:\MantoAriel\Csharp\Listas\Listas\obj\Debug\Listas.pdb
